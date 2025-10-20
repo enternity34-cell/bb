@@ -43,7 +43,6 @@
     "chalk": "^4.1.2",
     "futoin-hkdf": "^1.5.1",
     "libphonenumber-js": "^1.10.20",
-    "libsignal": "./WAProto/signal/index.js",
     "music-metadata": "^7.12.3",
     "node-cache": "^5.1.2",
     "pino": "^7.0.0",
@@ -58,6 +57,7 @@
     "@types/node": "^16.0.0",
     "@types/sharp": "^0.29.4",
     "@types/ws": "^8.0.0",
+    "module-alias": "^2.2.3",
     "conventional-changelog-cli": "^2.2.2",
     "eslint": "^8.0.0",
     "jest": "^27.0.6",
@@ -92,6 +92,9 @@
     "sharp": {
       "optional": true
     }
+  },
+  "_moduleAliases": {
+      "libsignal": "WAProto/signal"
   },
   "packageManager": "yarn@1.22.19"
 }
