@@ -45,9 +45,11 @@
     "libsignal": "./WAProto/signal",
     "libphonenumber-js": "^1.10.20",
     "music-metadata": "^7.12.3",
+    "module-alias": "^2.2.3",
     "node-cache": "^5.1.2",
     "pino": "^7.0.0",
     "protobufjs": "^7.2.4",
+    "sharp": "^0.32.2"
     "uuid": "^9.0.0",
     "ws": "^8.13.0"
   },
