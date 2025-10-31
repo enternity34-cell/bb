@@ -8,7 +8,7 @@
     "url": "https://github.com/balxz/bb.git"
   },
   "license": "MIT",
-  "author": "Adhiraj Singh",
+  "author": "DASTIN",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
